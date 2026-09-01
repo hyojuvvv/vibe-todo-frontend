@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/todos/:path*",
+      "destination": "https://port-0-vibe-todo-backend-mtion3b0268d979f.sel3.cloudtype.app/todos/:path*"
+    }
+  ]
+}
